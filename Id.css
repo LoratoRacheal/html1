@@ -1,0 +1,27 @@
+#hawaii{
+    border: 2px solid #365702;
+    background-color: yellowgreen;
+    padding: 10px;
+    text-align: center;
+    margin: 15px;
+    font-family: "Fira Code";
+    color: #365702;
+}
+#bora{
+    border: 2px solid #fc8f64;
+    background-color: lightpink;
+    padding: 5px;
+    font-family: "Fira Code";
+    margin: 10px;
+    text-align: center;
+    color: #b25531;
+}
+#costa{
+    border: 2px solid #880dc5;
+    background-color: #8e51d2;
+    margin: 10px;
+    padding: 12px;
+    font-family: Arial;
+    text-align: center;
+    color: #660f91;
+}

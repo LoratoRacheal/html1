@@ -1,0 +1,24 @@
+.movies{
+    border: 2px solid #27034f;
+    text-align: center;
+    padding: 15px;
+    background-color: #8e51d2;
+    margin: 15px;
+    font-family: "Agency FB";
+}
+.cartoons{
+    border: 2px solid dodgerblue;
+    text-align: center;
+    padding: 10px;
+    background-color: mediumturquoise;
+    margin: 8px;
+    font-family: "Courier New";
+}
+.Movies{
+    border: 2px solid #ad96d5;
+    text-align: center;
+    padding: 5px;
+    background-color: #57e0bb;
+    margin: 4px;
+    font-family: "Baskerville Old Face";
+}
